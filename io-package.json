@@ -7,9 +7,13 @@
 			"de": "RPI-Monitor für ioBroker",
 			"ru": "RPI-Монитор для ioBroker"
 		},
-        "version":                  "0.3.1",
+        "version":                  "0.3.2",
         "news": {
-			"0.3.1": {
+			"0.3.2": {
+                "en": "fixed Mem available readings on Stretch",
+                "de": "mem available bei strech gefixt",
+                "ru": "fixed Mem available readings on Stretch"
+            },"0.3.1": {
                 "en": "Fixup swap_used calculation.",
                 "de": "Korrigiere swap_used Kalkulation",
                 "ru": "Исправлено вычисление swap_used"
