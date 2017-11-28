@@ -115,8 +115,8 @@
                 "post": "$1/1024"
             },
             "memory_available": {
-                "command": "/usr/bin/free -mk",
-                "regexp": "^-\\/\\+ buffers\\/cache:\\s+\\d+\\s+(\\d+)",
+                "command": "/usr/bin/free",
+                "regexp": "(\\d+)$",
                 "post": "$1/1024",
                 "multiline": true
             }
