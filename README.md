@@ -138,6 +138,8 @@ For instance PI2:
 ```
 
 ## Changelog
+### 0.3.2 (2017-11-29)
+ - (Homoran) fixed Mem available readings on Stretch
 
 ### 0.3.1 (2017-01-11)
  - (olifre) Fixup swap_used calculation.
